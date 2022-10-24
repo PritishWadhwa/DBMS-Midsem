@@ -1,5 +1,7 @@
 import mysql.connector
 
+#MySQL is a tool used to manage databases and servers
+
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
